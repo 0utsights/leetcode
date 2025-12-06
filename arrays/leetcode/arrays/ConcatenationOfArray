@@ -1,0 +1,7 @@
+class Solution:
+    def getConcatenation(self, nums: list[int]) -> list[int]:
+        ans = [] #int array
+        for i in range(2): # cycle through loop twice to reach 2n length for ans array
+            for n in nums: # for each number in nums array
+                ans.append(n) # add n from nums array to ans array
+        return ans # return ans array with 2n length and values of nums array
