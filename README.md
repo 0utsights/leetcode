@@ -1,1 +1,1 @@
-I want my thing to show that I did work today but I only got 4 hours of sleep last night and im so tired so I'm doing this so it looks good, I swear this is the only day I'll skip for github though, I just didnt want to take naps so i could fix my sleep schedule and stick out the rest of the day
+Personal Leetcode Solutions
